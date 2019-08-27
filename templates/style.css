@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+
+#main-figure {
+    float: left;
+}
+
+#figure1 {
+  position: relative;
+  width: 25%;
+  height: 25%;
+}
+
+#figure2 {
+    width:200px;
+    height: 200px;
+}
